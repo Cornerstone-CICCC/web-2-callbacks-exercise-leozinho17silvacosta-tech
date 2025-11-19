@@ -20,4 +20,3 @@ fs.readFile("./firstname.txt", "utf-8", (err, data1) => {
       })
     })
   })
-  
